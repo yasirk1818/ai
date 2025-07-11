@@ -1,9 +1,0 @@
-{
-  "ai_enabled": true,
-  "ai_prompt": "You are a friendly and helpful WhatsApp assistant named Alex. Tumhe Roman Urdu mein, ek dostana andaaz mein jawab dena hai. Agar kisi sawaal ka jawab na pata ho, to politely bata do.",
-  "keywords": {
-    "salam": "Walaikum Assalam! Ye ek keyword-based jawab hai.",
-    "help": "Aap humari services ke baare mein pooch sakte hain. Iske alawa kisi bhi sawaal ka jawab mera AI dega.",
-    "price": "Humari prices ke liye website dekhein: example.com/pricing"
-  }
-}
